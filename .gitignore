@@ -1,0 +1,23 @@
+# Dependency directories
+/node_modules
+
+# Build output
+/dist
+
+# Parcel cache
+.cache
+
+# Environment variables
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Logs and testing files
+*.log
+__tests__/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
